@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657822024819",
+    "firebase_url": "https://pgl-search.firebaseio.com",
+    "project_id": "pgl-search",
+    "storage_bucket": "pgl-search.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657822024819:android:bd84e1bdd9a32317",
+        "android_client_info": {
+          "package_name": "co.jp.ababa51515.pglsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657822024819-td53thjfv0igq706s7l0725c67ghe7qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYfqJTZ5z2bzdLI0SV8_oh53sV2x78qAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657822024819-td53thjfv0igq706s7l0725c67ghe7qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
